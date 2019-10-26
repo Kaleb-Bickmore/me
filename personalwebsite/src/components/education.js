@@ -27,7 +27,7 @@ export default class Education extends Component {
                     <div class="col-md-9 text-center animate-box">
                         <h1 style={{color: "whitesmoke"}}>Classwork</h1>	
                     
-                                <p style={{color: 'rgb(204,211,221,.70)'}}>Artificial Intelligents</p>
+                                <p style={{color: 'rgb(204,211,221,.70)'}}>Artificial Intelligence</p>
                                 <p style={{color: 'rgb(204,211,221,.70)'}}>Object Oriented code Design</p>
                                 <p style={{color: 'rgb(204,211,221,.70)'}}>Advanced Algorithms</p>
                                 <p style={{color: 'rgb(204,211,221,.70)'}}>Search Algorithms</p>

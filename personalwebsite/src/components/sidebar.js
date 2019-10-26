@@ -34,13 +34,17 @@ export default class Sidebar extends Component {
         <i class="icon-heart" aria-hidden="true"></i> by 
         <a href="https://colorlib.com" target="_blank">Colorlib</a> 
        <span>Images: <a href="https://unsplash.com/" target="_blank">Unsplash.com</a></span></small></p> 
-        				<ul>
-        					<li><a href="/#"><i class="icon-facebook2"></i></a></li>
-        					<li><a href="/#"><i class="icon-twitter2"></i></a></li>
-        					<li><a href="/#"><i class="icon-instagram"></i></a></li>
-        					<li><a href="/#"><i class="icon-linkedin2"></i></a></li>
-        				</ul>
+        				
         			</div>
+                    <ul style={{listStyleType:'none'}}>
+        					<li style = {{marginLeft: '14%', marginRight:'18%',display:'inline'}}>
+                                <a href="/https://www.facebook.com/kaleb.bickmore?ref=bookmarks"><i class="icon-facebook2"></i></a></li>
+        					<li style = {{marginRight:'18%',display:'inline'}}>
+                                <a href="https://www.instagram.com/kaleb_bickmore/">
+                                    <i class="icon-instagram"></i></a></li>
+        					<li style = {{display:'inline'}}>
+                                <a href="https://www.linkedin.com/in/kaleb-bickmore"><i class="icon-linkedin2"></i></a></li>
+        				</ul>
 
                 </aside>
         </div>

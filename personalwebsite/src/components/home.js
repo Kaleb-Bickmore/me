@@ -16,7 +16,7 @@ export default class Home extends Component {
                                            <h1 style={{textShadow: '2px 2px black',color: '#ccd3dd'}}>Hello,<br style={{color: '#ccd3dd;'}}/>I'm Kaleb!</h1>
 
                                             <p>
-                                                <a href="KalebBickmoreResume.pdf" download = "KalebBickmoreResume.pdf" style={{color: '#ccd3dd', textShadow: '2px 2px black',
+                                                <a href="Resume.pdf" download = "Resume.pdf" style={{color: '#ccd3dd', textShadow: '2px 2px black',
                                                             borderColor:  '#ccd3dd'}} class="btn btn-primary btn-learn">Download Resume 
                                                             <i style={{color: '#ccd3dd'}} class="icon-download4"></i>
                                                 </a>
@@ -36,7 +36,7 @@ export default class Home extends Component {
                                        <div class="desc">
                                            <h1>I am <br/>a Software Engineer!</h1>
                                             <p>
-                                                <a href="KalebBickmoreResume.pdf" download = "KalebBickmoreResume.pdf" id="download1" style={{borderColor:  '#ccd3dd;'}} 
+                                                <a href="Resume.pdf" download = "Resume.pdf" id="download1" style={{borderColor:  '#ccd3dd;'}} 
                                                 class="download btn btn-primary btn-learn">Download Resume 
                                                 <i class="icon-download4"></i></a>
                                             </p>

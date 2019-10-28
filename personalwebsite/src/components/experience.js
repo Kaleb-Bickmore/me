@@ -24,9 +24,9 @@ export default class Experience extends Component {
                                <div class="timeline-label">
                                   <h2><a href="/#">Software Developer</a> <span>2019</span><br/><span> <a href="https://www.utah.edu/">University of Utah</a></span></h2>
                                   <ul>
-                                        <li> Developing web applications using Typescript frontend and Flask API</li>
-                                        <li>Using D3.js libraries for useful diagrams and providing data analysis</li>
-                                        <li>Designing code architecture for code readability and reuse</li> 
+                                        <li> Developed web applications using Typescript and Flask API</li>
+                                        <li>Used D3.js libraries for useful diagrams and data analysis</li>
+                                        <li>Designed code architecture for code readability and reuse</li> 
                                       </ul>
                                
                                 </div>
@@ -42,9 +42,9 @@ export default class Experience extends Component {
                                <div class="timeline-label">
                                    <h2><a href="/#">Software Engineer</a> <span>2019</span><br/><span> <a href="https://www.vareximaging.com/">Varex Imaging</a></span></h2>
                                    <ul>
-                                        <li>Designing intuitive user interface in native Python using PyQt5 framework</li>
-                                        <li>Developing algorithms for automating x-ray tube tuning</li>
-                                        <li>Maintaining SQL database integrity</li> 
+                                        <li>Composed intuitive interfaces in Python using PyQt5 framework</li>
+                                        <li>Refined algorithms for automating x-ray tube tuning</li>
+                                        <li>Created SQL databases for login information</li> 
                                       </ul>
                                 </div>
                             </div>
@@ -58,9 +58,9 @@ export default class Experience extends Component {
                                <div class="timeline-label">
                                    <h2>Student Software Engineer <span>2018-2019</span><br/><span> <a href="https://www.sdl.usu.edu/">Space Dynamics Laboratory</a></span></h2>
                                   <ul>
-                                    <li>Developing QT applications in C++ and Python</li>
-                                    <li>Maintaining Legacy code</li>
-                                    <li>Versioning software using Git and Subversion</li> 
+                                    <li>Programmed QT applications in C++ and Python</li>
+                                    <li>Maintained Legacy C++ code</li>
+                                    <li>Versioned software using Git and Subversion</li> 
                                   </ul>
                                </div>
                             </div>

@@ -14,6 +14,24 @@ export default class Experience extends Component {
                 <div class="row">
                     <div class="col-md-12">
                      <div class="timeline-centered">
+                     <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                            <div class="timeline-entry-inner">
+
+                               <div class="timeline-icon color-1">
+                                  <i class="icon-pen2"></i>
+                               </div>
+
+                               <div class="timeline-label">
+                                  <h2><a href="/#">Software Developer</a> <span>2019-Current</span><br/><span> <a href="https://www.utah.edu/">Allstate</a></span></h2>
+                                  <ul>
+                                        <li> Constructed C APIs connecting legacy code to new Python Libraries</li>
+                                        <li>Collaborated in Agile Sprint development cycles</li>
+                                        <li>Performed black box testing prior to production releases</li> 
+                                      </ul>
+                               
+                                </div>
+                            </div>
+                         </article>
                          <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                             <div class="timeline-entry-inner">
 

@@ -33,6 +33,17 @@ export default class Skills extends Component {
 									</div>
 								</div>
 							</div>
+							<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+								<div class="progress-wrap">
+									<h3>C++</h3>
+									<div class="progress">
+										 <div class="progress-bar color-6" role="progressbar" aria-valuenow="70"
+										  aria-valuemin="0" aria-valuemax="100" style={{width:'70%'}}>
+										<span>70%</span>
+										  </div>
+									</div>
+								</div>
+							</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
 								<h3>Javascript</h3>
@@ -88,17 +99,7 @@ export default class Skills extends Component {
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-								<div class="progress-wrap">
-									<h3>C++</h3>
-									<div class="progress">
-										 <div class="progress-bar color-6" role="progressbar" aria-valuenow="50"
-										  aria-valuemin="0" aria-valuemax="100" style={{width:'50%'}}>
-										<span>50%</span>
-										  </div>
-									</div>
-								</div>
-							</div>
+						
 					</div>
 					
 				</div>

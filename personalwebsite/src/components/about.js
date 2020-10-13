@@ -13,8 +13,7 @@ export default class About extends Component {
 										<h2 class="colorlib-heading">Who Am I?</h2>
 										<p><strong>Hi I'm Kaleb Bickmore,</strong> I am a software engineer 
 											and entrepreneur based out of Salt Lake City, Ut. I graduated from Utah State University
-											with a Bachelor of Computer Science. I am currently working 
-											on personal projects involving web based applications. 
+											with a Bachelor of Computer Science. I enjoy the outdoors by mountain biking, hiking, and backpacking. 
 										</p>
 										<div class="colorlib-about">
 											<p>Current technologies I am using:</p>
@@ -23,9 +22,9 @@ export default class About extends Component {
 												<li>Node</li>
 												<li>Javascript</li>
 												<li>Python</li>
-												<li>Flask</li>
+												<li>C++</li>
 												<li>Typescript</li>
-												<li>Kivy</li>
+												<li>Java</li>
 
 
 											</ul>

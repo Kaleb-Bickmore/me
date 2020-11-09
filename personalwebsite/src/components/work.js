@@ -57,6 +57,19 @@ export default class Work extends Component {
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
+                        <div class="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+                            <div class="desc">
+                                <div class="con">
+                                    <h3><a href="https://github.com/Kaleb-Bickmore/TeamManagement">Team Management Web App</a></h3>
+                                    <span>Software Application</span>
+                                    <p class="icon">
+                                            <span><a href="https://github.com/Kaleb-Bickmore/TeamManagement"><i class="icon-github"></i></a></span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     
                     
                     

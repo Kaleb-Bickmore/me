@@ -28,7 +28,7 @@ export default class Contact extends Component {
                                 <i class="icon-map"></i>
                             </div>
                             <div class="colorlib-text">
-                                <p><a href="https://goo.gl/maps/zLMfvMo5NtXajj8a6" >Salt Lake City, Utah, 84107</a></p>
+                                <p><a href="https://goo.gl/maps/bqTb5bC6mZeRdUei8" >Logan, Utah, 84341</a></p>
                             </div>
                         </div>
 

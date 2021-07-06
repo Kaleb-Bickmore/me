@@ -22,7 +22,29 @@ export default class Experience extends Component {
                                </div>
 
                                <div class="timeline-label">
-                                  <h2><a href="/#">Software Developer</a> <span>2019-Current</span><br/><span> <a href="https://www.utah.edu/">Allstate</a></span></h2>
+                                  <h2><a href="/#">Application Developer</a> <span>2021-Current</span><br/><span> <a href="https://www.conservice.com/">Conservice</a></span></h2>
+                                    <ul>
+                                        <li>Designing and developing RESTful API services for company
+login management systems.</li>
+                                        <li> Implementing new internal websites in ASP.net Core and
+React to replace legacy websites.</li>
+                                        <li>Maintaining and deploying legacy ASP.NET MVC code base
+and SQL procedures using Agile sprints methodology.</li> 
+                                        <li>Training team members in RESTful API services and React
+coding best practices.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                         </article>
+                     <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                            <div class="timeline-entry-inner">
+
+                               <div class="timeline-icon color-1">
+                                  <i class="icon-pen2"></i>
+                               </div>
+
+                               <div class="timeline-label">
+                                  <h2><a href="/#">Software Developer</a> <span>2019-2020</span><br/><span> <a href="https://www.allstate.com/landingpages/lsp/auto-brand-general-desktop.html?CMP=KNC-T1-NA-DSK-MSN-AU-MISC-B-070195-200515:allstate+insurance&TFN=&CAMPAIGN=444490000070195&adgroup=58700001189793455&affcode=p10513848468&ad=77515717792157&s_kwcid=AL!9024!10!77515717792157!19785830081&gclid=5835bcd227df130ffb87dc366c1feeeb&gclsrc=3p.ds&msclkid=5835bcd227df130ffb87dc366c1feeeb">Allstate</a></span></h2>
                                     <ul>
                                         <li>Constructed C and Python APIs to connect low level C functions to a Python code base.</li>
                                         <li>Developed Python web service and a Java Bootstrap application to allow developers to send a username and password securely to an endpoint and receive a login token.</li>

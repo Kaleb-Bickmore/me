@@ -11,7 +11,7 @@ export default class Sidebar extends Component {
         				<div class="author-img" style={{backgroundImage: 'url(images/about.jpg)'}}></div>
         				<h1 id="colorlib-logo"><a href="index.html">Kaleb Bickmore</a></h1>
         				<span class="position"><a href="https://www.computersciencedegreehub.com/faq/what-is-the-difference-between-software-engineering-and-software/">
-                            Software Engineer</a> in Salt Lake City, Ut</span>
+                            Software Engineer</a> in Logan, UT</span>
         			</div>
         			<nav id="colorlib-main-menu" role="navigation" class="navbar">
         				<div id="navbar" class="collapse">
@@ -39,9 +39,6 @@ export default class Sidebar extends Component {
                     <ul style={{listStyleType:'none'}}>
         					<li style = {{marginLeft: '14%', marginRight:'18%',display:'inline'}}>
                                 <a href="/https://www.facebook.com/kaleb.bickmore?ref=bookmarks"><i class="icon-facebook2"></i></a></li>
-        					<li style = {{marginRight:'18%',display:'inline'}}>
-                                <a href="https://www.instagram.com/kaleb_bickmore/">
-                                    <i class="icon-instagram"></i></a></li>
         					<li style = {{display:'inline'}}>
                                 <a href="https://www.linkedin.com/in/kaleb-bickmore"><i class="icon-linkedin2"></i></a></li>
         				</ul>

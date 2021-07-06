@@ -22,9 +22,9 @@ export default class About extends Component {
 												<li>Node</li>
 												<li>Javascript</li>
 												<li>Python</li>
-												<li>C++</li>
+												<li>ASP.NET Core</li>
 												<li>Typescript</li>
-												<li>Java</li>
+												<li>Java w/ Spring Boot</li>
 
 
 											</ul>
